@@ -4,7 +4,6 @@ using UnityEngine.Events;
 
 namespace KoganeUnityLib
 {
-	[InitializeOnLoad]
 	internal static class EditorApplicationUtility
 	{
 		private const BindingFlags BINDING_ATTR = 
