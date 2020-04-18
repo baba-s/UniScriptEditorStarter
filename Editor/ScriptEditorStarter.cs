@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine.Events;
 
-namespace KoganeUnityLib
+namespace UniScriptEditorStarter
 {
 	internal static class EditorApplicationUtility
 	{
